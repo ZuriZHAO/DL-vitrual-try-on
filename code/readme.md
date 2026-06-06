@@ -1,0 +1,1 @@
+The JSON files in the code/ folder are workflows used on RunningHub / ComfyUI. They correspond to different experiments in the project, including baseline generation, Florence2-enhanced generation, two-input try-on, multi-perspective generation, and pose-based generation.
